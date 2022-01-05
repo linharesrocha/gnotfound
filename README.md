@@ -13,8 +13,8 @@
 <hr>
  
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=linharesrocha&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linharesrocha&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gnotfound&show_icons=true&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnotfound&layout=compact&theme=dark">
 </div>
 
 <p>  </p>
